@@ -28,11 +28,8 @@ export const Interests = () => {
             </button>
           ))}
         </div>
-
-        {/* Grid of items for active category */}
-        {/* Small screens: simple responsive grid. Md+ screens: display first 3 items in a row, then center remaining items on a second row. */}
-        {/* Unified responsive grid — matches project layout */}
         
+        {/* Grid of items for active category */}        
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
             {activeGroup.items.map((it, idx) => (
                 <div key={idx} className="p-4 rounded-xl border border-white/10 bg-white/5 backdrop-blur-sm hover:scale-[1.02] transition-transform duration-200 shadow-lg/5 flex flex-col items-center">

@@ -7,7 +7,7 @@ export const Skills = () => {
       <div className="max-w-6xl mx-auto px-6">
         <div className="text-center text-center text-white mb-8 space-y-2">
             <h2 className="text-3xl font-bold">
-            my <span className="text-pink-600 italic">skills</span>
+                my <span className="text-pink-600 italic">skills</span>
             </h2>
             <p>may or may not be true, u decide</p>
         </div>

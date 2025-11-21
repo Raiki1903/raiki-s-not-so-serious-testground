@@ -17,7 +17,7 @@ export const Hero = () => {
                 {/* Image */}
                 <div className="w-full md:w-1/2">
                     <div className="rounded-xl overflow-hidden shadow-lg aspect-square relative z-10">
-                        <img
+                        <img 
                             src={isBald ? bald : profile}
                             alt="Profile"
                             onClick={toggleImage}
