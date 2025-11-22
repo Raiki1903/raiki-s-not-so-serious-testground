@@ -4,10 +4,10 @@ import { SiMysql, SiMongodb, SiFirebase, SiC, SiJavascript, SiGit, SiGithub, SiF
 import { DiJava, DiVisualstudio } from 'react-icons/di';
 
 export const navItems = [
-  { name: "profile", href: "#profile" },
-  { name: "skills", href: "#skills" },
-  { name: "projects", href: "#projects" },
-  { name: "interests", href: "#interests" }
+  { name: "Profile", href: "#profile" },
+  { name: "Skills", href: "#skills" },
+  { name: "Projects", href: "#projects" },
+  { name: "Interests", href: "#interests" }
 ];
 
 export const contactItems = [

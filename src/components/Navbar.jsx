@@ -25,8 +25,8 @@ export const NavBar = () => {
                 <div className="bg-[#121219] bg-opacity-95 backdrop-blur-sm border-b border-white/5">
                     <div className="max-w-6xl mx-auto px-6 py-3 flex items-center justify-between relative">
                         <div className="flex space-x-2 items-center" >
-                            <span className="text-white font-bold text-lg">raiki's</span>
-                            <span className="text-pink-600 font-bold text-lg">testground</span>
+                            <span className="text-white font-bold text-lg">Raiki's</span>
+                            <span className="text-pink-600 font-bold text-lg">Testground</span>
                         </div>
 
                         {/* Desktop nav */}

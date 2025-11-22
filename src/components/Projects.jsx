@@ -7,7 +7,7 @@ export const Projects = () => {
             <div className="max-w-6xl mx-auto px-6 py-12 flex flex-col items-start gap-8 ">
                 {/* Header */}
                 <div className="w-full z-20">
-                    <h2 className="text-3xl font-bold text-white mb-4">my <span className="text-pink-600 italic">projects</span></h2>
+                    <h2 className="text-3xl font-bold text-white mb-4">My <span className="text-pink-600 italic">Projects</span></h2>
                     <p className="text-sm text-white mb-6">these aren't real, don't take them seriously 😅</p>
                 </div>
 

@@ -12,9 +12,9 @@ export const Interests = () => {
       <div className="max-w-6xl mx-auto px-6">
         <div className=" text-white mb-8 space-y-2 flex flex-col items-center">
             <h2 className="text-3xl font-bold">
-                my <span className="text-pink-600 italic">interests</span>
+                My <span className="text-pink-600 italic">Interests</span>
             </h2>
-            <p>i recommend you check these out (please do, especially warframe)</p>
+            <p>I recommend you check these out (please do, especially warframe)</p>
         </div>
 
         {/* Tabs */}
@@ -28,7 +28,7 @@ export const Interests = () => {
             </button>
           ))}
         </div>
-        
+
         {/* Grid of items for active category */}        
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
             {activeGroup.items.map((it, idx) => (

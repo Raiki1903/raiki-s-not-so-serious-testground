@@ -34,7 +34,7 @@ export const Hero = () => {
                         <HeadingHero />
                     </div>
 
-                    <p className="text-white leading-relaxed indent-8">
+                    <p className="text-white leading-relaxed">
                         welcome to my testground, a small space for my practice and nonsense. this page will have my projects, skills, interests, and anything else that i can think of. go scroll down to see whats up.
                     </p>
 
