@@ -30,12 +30,12 @@ export const Hero = () => {
                 {/* Text */}
                 <div className="w-full md:w-1/2 text-white space-y-5">
                     <div>
-                        <h2 className="text-3xl md:text-4xl font-semibold">hi, i'm Raiki! i'm a</h2>
+                        <h2 className="text-3xl md:text-4xl font-semibold">Hi, I'm Raiki! I'm a</h2>
                         <HeadingHero />
                     </div>
 
                     <p className="text-white leading-relaxed">
-                        welcome to my testground, a small space for my practice and nonsense. this page will have my projects, skills, interests, and anything else that i can think of. go scroll down to see whats up.
+                        Welcome to my Testground, a small space for my practice and nonsense. This page will have my projects, skills, interests, and anything else that I can think of. Go scroll down to see what's up.
                     </p>
 
                     <div className="flex gap-4 mt-4 justify-center">
